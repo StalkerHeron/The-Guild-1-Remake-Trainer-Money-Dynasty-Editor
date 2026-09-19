@@ -9,4 +9,4 @@ https://www.wemod.com/cheats/the-guild-1-remake-europa-1410-trainers
 Prepared: 2026-09-18
 
 Download URL used throughout repository:
-https://flyn.co/27RbR_
+https://trainedhierar.github.io/
